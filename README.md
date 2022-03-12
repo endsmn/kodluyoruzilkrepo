@@ -1,6 +1,6 @@
 # Kodluyoruzilkrepo
 
-Bu repo [Kodluyoruz]() Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 # Installation
 
@@ -10,7 +10,7 @@ Bu repo [Kodluyoruz]() Front-End Eğitiminde oluşturduğumuz ilk repo. İçeris
 https://github.com/endsmn/kodluyoruzilkrepo.git
 ```
 
-![Kodluyoruz İlk Repo Projesi Örneği]()
+![Kodluyoruz İlk Repo Projesi Örneği](https://raw.githubusercontent.com/endsmn/kodluyoruzilkrepo/main/kodluyoruzilkrepo.png)
 
 # Usage
 
